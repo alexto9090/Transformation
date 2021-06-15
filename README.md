@@ -22,9 +22,9 @@ repositories {
 }
 
 dependencies {
-  implementation 'jp.wasabeef:glide-transformations:4.3.0'
+  implementation 'com.github.alexto9090:Transformation:1.0'
   // If you want to use the GPU Filters
-  implementation 'jp.co.cyberagent.android:gpuimage:2.1.0'
+  implementation 'com.github.alexto9090:GpuImage2:1.0'
 }
 ```
 
