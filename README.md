@@ -83,7 +83,3 @@ Glide.with(this).load(R.drawable.demo)
 - `BrightnessFilterTransformation`
 - `KuwaharaFilterTransformation`
 - `VignetteFilterTransformation`
-
-
-Applications using Glide Transformations
----
